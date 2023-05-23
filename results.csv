@@ -1,0 +1,8 @@
+map,BFS-G cost,BFS-G expanded,DFS-G cost,DFS-G expanded,UCS cost,UCS expanded,Greedy cost,Greedy expanded,WA* (0.5) cost,WA* (0.5) expanded,WA* (0.7) cost,WA* (0.7) expanded,WA* (0.9) cost,WA* (0.9) expanded
+
+map12x12,109.0,141,121.0,33,87.0,97,227.0,32,87.0,95,89.0,177,89.0,203
+
+map15x15,121.0,364,181.0,80,106.0,264,188.0,85,106.0,370,106.0,522,115.0,552
+
+map20x20,256.0,754,282.0,137,175.0,573,268.0,130,178.0,860,180.0,1158,200.0,1204
+
